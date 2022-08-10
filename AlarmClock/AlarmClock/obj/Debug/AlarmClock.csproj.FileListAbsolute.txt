@@ -1,0 +1,13 @@
+C:\Users\GUILHERY\source\repos\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe.config
+C:\Users\GUILHERY\source\repos\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe
+C:\Users\GUILHERY\source\repos\AlarmClock\AlarmClock\bin\Debug\AlarmClock.pdb
+C:\Users\GUILHERY\source\repos\AlarmClock\AlarmClock\obj\Debug\AlarmClock.csproj.AssemblyReference.cache
+C:\Users\GUILHERY\source\repos\AlarmClock\AlarmClock\obj\Debug\AlarmClock.csproj.SuggestedBindingRedirects.cache
+C:\Users\GUILHERY\source\repos\AlarmClock\AlarmClock\obj\Debug\AlarmClock.Properties.Resources.resources
+C:\Users\GUILHERY\source\repos\AlarmClock\AlarmClock\obj\Debug\AlarmClock.csproj.GenerateResource.cache
+C:\Users\GUILHERY\source\repos\AlarmClock\AlarmClock\obj\Debug\AlarmClock.csproj.CoreCompileInputs.cache
+C:\Users\GUILHERY\source\repos\AlarmClock\AlarmClock\obj\Debug\AlarmClock.exe
+C:\Users\GUILHERY\source\repos\AlarmClock\AlarmClock\obj\Debug\AlarmClock.pdb
+C:\Users\GUILHERY\source\repos\AlarmClock\AlarmClock\obj\Debug\AlarmClock.frmForm2.resources
+C:\Users\GUILHERY\source\repos\AlarmClock\AlarmClock\obj\Debug\AlarmClock.frmForm1.resources
+C:\Users\GUILHERY\source\repos\AlarmClock\AlarmClock\obj\Debug\AlarmClock.frmForm3.resources
